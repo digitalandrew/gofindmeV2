@@ -1,4 +1,4 @@
-gofindmeV2 - GoFundMe OSINT tool now faster in GO
+# gofindmeV2 - GoFundMe OSINT tool now faster in GO
 
 gofindme is a quick to use webscraping tool to quickly pull down a list of donators and donation amounts from gofundme campaigns.
 
